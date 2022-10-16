@@ -1,0 +1,338 @@
+,City,Country,Max Temp,Lat,Lng,Description,Hotel Name
+5,Murgab,TM,82.78,37.4966,61.9714,clear sky,Wepa Nurlyýew
+6,Kutum,SD,78.03,14.2,24.6667,clear sky,Dibbo areaمنطقة دبو
+9,Nepa Nagar,IN,82.74,21.4667,76.4,broken clouds,Nemade Farm House Siwal
+10,Magaria,NE,81.57,12.9983,8.9099,few clouds,Chez Honorable Chapiou
+13,Dalbandin,PK,84.43,28.8947,64.4101,clear sky,Sanjrani House
+14,Otukpo,NG,72.41,7.1913,8.1329,light rain,Queen s Hotel
+16,Trincomalee,LK,88.43,8.5711,81.2335,overcast clouds,Welcombe Hotel
+18,Buta,CD,73.94,2.7858,24.73,overcast clouds,Hôtel BOPANDO
+19,Pindiga,NG,74.61,9.9833,10.9333,overcast clouds,Accommodation Center
+21,Hobyo,SO,81.75,5.3505,48.5268,few clouds,Halane Hotel and Restaurent
+25,Medak,IN,81.95,18.0333,78.2667,light rain,Haritha Heritage Hotel
+30,Faya,SA,72.12,18.3851,42.4509,clear sky,شيلة نسايم
+31,Thinadhoo,MV,81.91,0.5333,72.9333,few clouds,
+33,Kashan,IR,82.83,33.9831,51.4364,clear sky,Manouchehri Traditional House And Hotel
+34,Ilam,NP,75.02,26.9167,87.9167,scattered clouds,चियाबारी कटेज
+35,Gat,IL,77.68,31.61,34.7642,scattered clouds,OlusHome
+36,Kidal,ML,79.93,18.4411,1.4078,clear sky,
+37,Sangmelima,CM,70.41,2.9333,11.9833,overcast clouds,gamestar hotel
+42,Abu Kamal,SY,82.9,34.4506,40.9171,overcast clouds,البوكمال
+43,Taloqan,AF,79.27,36.7361,69.5345,clear sky,Saraisang street
+44,Zaria,NG,72.19,11.1113,7.7227,overcast clouds,A.B.U Hotels
+45,Ati,TD,85.33,13.2154,18.3353,clear sky,
+47,Malanville,BJ,76.3,11.8685,3.3899,overcast clouds,Hotel Sejour du Sahel
+50,Galle,LK,80.42,6.0367,80.217,very heavy rain,Amangalla
+51,Najran,SA,78.82,17.4924,44.1277,few clouds,محمد هادي ال فطيح
+58,Batouri,CM,72.54,4.4333,14.3667,overcast clouds,Hotel Hollywood
+62,Hindaun,IN,85.75,26.7167,77.0167,clear sky,Shri Ganesham Resort and Water Park
+63,Adwa,ET,70.61,14.1646,38.8955,broken clouds,Maay Assa Hotel
+64,Bosobolo,CD,76.44,4.1833,19.9,light rain,
+65,Malakal,SS,75.92,9.5334,31.6605,overcast clouds,Nile Palace Hotel
+66,Mandera,KE,83.7,3.9366,41.867,broken clouds,Red Sea Resort & Suites Mandera County
+70,Birao,CF,82.24,10.2849,22.7882,broken clouds,
+72,Kavaratti,IN,81.48,10.5669,72.642,overcast clouds,Green leaf
+73,Sorada,IN,84.36,19.75,84.4333,broken clouds,PWD Guest House
+74,Salalah,OM,84.29,17.0151,54.0924,few clouds,"HAMDAN PLAZA HOTEL SALALAH, an HTG Hotel"
+76,Pafos,CY,76.23,34.7667,32.4167,scattered clouds,Elysium Hotel
+78,Beboto,TD,75.65,8.2668,16.939,overcast clouds,
+79,Batticaloa,LK,84.06,7.7102,81.6924,overcast clouds,Grand Star Guest House
+81,Jalu,LY,74.91,29.0331,21.5482,clear sky,صاحبة الفخامة
+85,Dogondoutchi,NE,80.11,13.6393,4.0287,overcast clouds,Hôtel Alheri Maison Alheri
+88,Jinka,ET,75.16,5.65,36.65,scattered clouds,
+92,Adjumani,UG,75.29,3.3779,31.7909,overcast clouds,Hotel Zawadi
+93,Isiro,CD,76.14,2.7739,27.616,overcast clouds,Guest House Hewa Bora
+96,Sabzevar,IR,78.08,36.2126,57.6819,clear sky,پزشکی قانونی سبزوار
+108,Manavalakurichi,IN,85.24,8.1333,77.3,overcast clouds,Jebinrio home
+110,Alwar,IN,86.07,27.5667,76.6,clear sky,Hotel Saroop Vilas Palace
+112,Hit,IQ,86.45,33.6416,42.8251,broken clouds,المعلق حسان رزاق
+116,Riyadh,SA,87.94,24.6877,46.7219,clear sky,"InterContinental Riyadh, an IHG Hotel"
+118,Marawi,PH,80.2,7.9986,124.2928,broken clouds,Derogongan Residence
+120,Cotonou,BJ,78.78,6.3654,2.4183,scattered clouds,Novotel Cotonou Orisha
+122,Kyabe,TD,80.53,9.4515,18.9449,overcast clouds,
+124,Rafai,CF,75.9,4.95,23.9167,overcast clouds,
+126,Basoda,IN,81.18,23.85,77.9333,clear sky,Sahu Dharamshala
+128,Male,MV,84.15,4.1748,73.5089,broken clouds,Hotel Octave Maldives
+131,Kulhudhuffushi,MV,81.77,6.6221,73.07,overcast clouds,Haajy Guest House 1
+132,Shache,CN,70.32,38.4167,77.2406,clear sky,Delong Hotel
+133,Victoria,HK,89.19,22.2855,114.1577,broken clouds,Mini Central
+136,Umaria,IN,80.67,23.5333,80.8333,clear sky,KRISHNA PALACE
+138,Sabha,LY,70.86,27.0377,14.4283,clear sky,محطة ام الارانب -سبها مواصلات
+145,Kudahuvadhoo,MV,80.46,2.6708,72.8944,overcast clouds,Niyama Private Islands Maldives
+147,Port Blair,IN,86.04,11.6667,92.75,scattered clouds,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+149,Kannur,IN,82.0,11.8675,75.3576,overcast clouds,Asokam Beach Resort and Ayurveda Chikitsa Kendram
+150,Boali,CF,77.77,4.8005,18.1275,overcast clouds,Auberge des Cocotiers Boali poste
+151,Gusau,NG,75.06,12.1628,6.6614,overcast clouds,GUEST INN
+152,Am Timan,TD,81.09,11.0297,20.2827,overcast clouds,Palais du chef Canton Salamt
+154,Gewane,ET,87.91,10.1664,40.6453,clear sky,እንደገና ገዋኔ ሞቴል
+158,Sar-E Pul,AF,71.94,35.8333,66.1667,clear sky,
+160,Sakakah,SA,81.97,29.9697,40.2064,clear sky,Fakhamat Al Orjoana Apartment
+161,Jijiga,ET,72.36,9.35,42.8,scattered clouds,RAMAAS HOTEL
+163,Tessalit,ML,79.45,20.1986,1.0114,clear sky,
+165,Maihar,IN,82.69,24.2667,80.75,clear sky,Mrig Van Resort
+167,Tanout,NE,81.82,14.9709,8.8879,scattered clouds,
+171,Awbari,LY,71.22,26.5921,12.7805,clear sky,استراحة الشارب العائلي
+172,Raga,SS,81.1,8.4596,25.678,broken clouds,
+173,Jega,NG,77.65,12.2175,4.3792,overcast clouds,ALH. Nasiru Ibrahim
+175,Kelo,TD,77.07,9.3086,15.8066,overcast clouds,Plantation de Kelo
+178,Linda,US,75.69,39.1277,-121.5508,clear sky,Comfort Suites Marysville-Yuba City
+182,Ajdabiya,LY,74.66,30.7554,20.2263,clear sky,منزلة الحاج سالم خليفة العيساويه الزواوي
+183,Krishnagiri,IN,83.97,12.5333,78.2333,overcast clouds,"Alps Residency - A Bergamont Group of Hotel, Krishnagiri"
+184,Bokoro,TD,86.45,12.3807,17.0568,few clouds,
+185,Marsa Matruh,EG,74.73,31.3525,27.2453,broken clouds,Beau Site
+187,Bhadrachalam,IN,82.31,17.6667,80.8833,overcast clouds,Hotel Srinidhi Residency
+189,Madikeri,IN,77.76,12.4167,75.7333,overcast clouds,"Club Mahindra Resort - Madikeri - Coorg, Karnataka"
+194,Bilma,NE,80.74,18.6853,12.9164,clear sky,Expeditions Ténére voyages
+196,Matay,EG,77.67,28.419,30.7792,clear sky,Nag Aespen
+200,Kanniyakumari,IN,82.98,8.0833,77.5667,overcast clouds,Sparsa Kanyakumari
+202,Bandarbeyla,SO,84.81,9.4942,50.8122,clear sky,JABIR HOTEL
+203,Zuwarah,LY,74.12,32.9312,12.082,few clouds,تيدارت انغ
+206,Misratah,LY,75.24,32.3754,15.0925,light rain,Almasa Hotel
+208,Hambantota,LK,85.8,6.1241,81.1185,broken clouds,Bungalow 63
+210,Ouesso,CG,72.54,1.6136,16.0517,light rain,ABENIE Hotel
+212,Dwarka,IN,88.12,22.2394,68.9678,broken clouds,Hotel Narayan Avezika Comfort
+213,Kentau,KZ,71.71,43.5206,68.5094,few clouds,Safary
+214,Trapani,IT,75.29,37.8333,12.6667,few clouds,
+216,Ramat Yishay,IL,80.22,32.7006,35.1797,scattered clouds,Zimmer & Spa Kesem Hamaga
+218,Dharchula,IN,76.08,29.85,80.5333,clear sky,Mahara Hotel
+219,Adrar,MR,83.28,20.5022,-10.0711,overcast clouds,
+225,Kashi,CN,70.81,39.4547,75.9797,clear sky,帕米尔青年旅舍
+231,Makokou,GA,71.71,0.5738,12.8642,overcast clouds,Hôtel Arizona
+235,Marzuq,YE,81.05,14.4,46.4667,clear sky,حيد القفلة
+236,Umm Kaddadah,SD,84.51,13.6017,26.6876,clear sky,
+238,Isagarh,IN,81.03,24.8333,77.8833,clear sky,ACC Cement
+239,Garowe,SO,84.63,8.4054,48.4845,few clouds,Curubo Hotel
+240,Asyut,EG,77.4,27.181,31.1837,clear sky,فندق ميس إيجيبت Miss Egypt Hotel
+243,Arlit,NE,82.36,18.7369,7.3853,clear sky,Case de Passage De la Prefecture
+245,Lar,IN,85.73,26.2039,83.9717,clear sky,Ovaiskarni ward Lar
+247,Odweyne,SO,79.84,9.4092,45.064,clear sky,Eng Hiirey House
+248,Marsabit,KE,70.3,2.3284,37.9899,broken clouds,Chicho Hotel
+249,Abu Samrah,SY,70.79,35.3029,37.1841,overcast clouds,
+251,Shorapur,IN,83.89,16.5167,76.75,light rain,Maheshwari Bhawan
+252,Wamba,NG,73.13,8.9333,8.6,overcast clouds,Roma Zee Guest House Annex
+255,Shabqadar,PK,86.22,34.2139,71.5552,clear sky,Haji Jamshed khan House
+256,Manadhoo,MV,81.9,5.7667,73.3833,overcast clouds,Bon Abri maldives
+257,Patan,NP,79.18,27.6667,85.3333,few clouds,Hotel Himalaya
+258,Narwar,IN,82.02,25.65,77.9,clear sky,हनुमान मन्दिर
+259,Denia,ES,72.75,38.8408,0.1057,clear sky,Hotel Port Dénia
+260,Kishi,NG,72.48,9.0833,3.85,overcast clouds,New NCCF KISI
+261,Wajid,SO,83.32,3.8093,43.2471,few clouds,xamdihotelresturant114
+264,Sangareddi,IN,77.32,17.6294,78.0917,broken clouds,OYO 73247 Cgr Manjeera
+266,Doka,SD,83.46,13.5167,35.7667,clear sky,منصور عثمان
+268,Safaga,EG,79.74,26.7292,33.9365,clear sky,Lamar Resort Abu Soma
+269,Goure,NE,82.45,13.9835,10.2704,few clouds,
+271,Bardiyah,LY,72.05,31.7561,25.0865,clear sky,بورتو بردية
+272,Abeche,TD,84.0,13.8292,20.8324,scattered clouds,Assaleh Hamdan Haroune
+276,Diapaga,BF,76.17,12.0708,1.7889,broken clouds,Hôtel GACILIE
+278,Awjilah,LY,75.02,29.1081,21.2869,clear sky,المنزل
+279,Suez,EG,75.38,29.9737,32.5263,clear sky,Green House
+280,Gambela,ET,81.18,8.25,34.5833,broken clouds,Solomon Debebe Hotel
+281,Dhidhdhoo,MV,81.72,6.8833,73.1,overcast clouds,Dhidhoo beach
+282,Aswan,EG,81.7,24.0934,32.907,few clouds,Nuba Nile
+284,Kefalos,GR,71.82,36.7453,26.9589,scattered clouds,Kokalakis Hotel
+285,Saqqez,IR,73.38,36.2499,46.2735,scattered clouds,Saqqez Hotel
+287,Gohad,IN,85.12,26.4261,78.4447,clear sky,Shree Dauji Nasta Center
+288,Joshimath,IN,70.38,30.5667,79.5667,clear sky,Shivalik Camps & Resort
+291,Dera Bugti,PK,88.63,29.0307,69.151,clear sky,Nawab Bugti House
+294,Eyl,SO,85.59,7.9803,49.8164,few clouds,EYL AQUE SYSTEM
+298,Yining,CN,80.49,29.0361,114.5636,clear sky,Xiushui Hotel
+305,Moussoro,TD,85.15,13.6408,16.4901,scattered clouds,Pharmacie alnadja Moussoro
+308,Khed,IN,88.88,17.7167,73.3833,scattered clouds,Swagat Lodge
+311,Matara,LK,82.29,5.9485,80.5353,heavy intensity rain,Amaloh Boutique Resort
+315,Esna,EG,79.84,25.2934,32.554,scattered clouds,Orient Star Dahabyia Isna 05 Nights Each Sunday
+316,Mongoumba,CF,73.2,3.6415,18.5936,light rain,
+322,Obosi,NG,74.08,6.0951,6.8177,overcast clouds,Maslina Suites & Garden
+323,Nikki,BJ,72.75,9.9401,3.2108,overcast clouds,Monnon
+324,Boende,CD,75.4,-0.2167,20.8667,overcast clouds,
+326,Kanker,IN,85.03,20.2719,81.4931,broken clouds,STARiHOTEL Kanker
+330,Hunsur,IN,80.22,12.3075,76.2878,overcast clouds,VAM RESIDENCY
+332,Chopda,IN,86.99,21.25,75.3,scattered clouds,CHACHA BHATIJA AAMLET CENTAR
+333,Mangrol,IN,89.19,21.1167,70.1167,broken clouds,Hotel The Royal Honours
+336,Gombe,NG,77.02,10.2897,11.1673,overcast clouds,Custodian Hotel Gombe
+339,Manali,IN,87.89,13.1667,80.2667,overcast clouds,Sarathy Lodge
+343,Weligama,LK,81.45,5.9667,80.4167,very heavy rain,Weligama Bay Resort
+345,Masallatah,LY,73.44,32.6167,14.0,clear sky,Mustafa Taher Sowaidan
+355,Agadez,NE,76.59,19.75,10.25,clear sky,
+356,Neyshabur,IR,74.7,36.2133,58.7958,clear sky,Amiran Hotel & Commercial Complex
+357,Qom,IR,81.07,34.6401,50.8764,clear sky,Qom Hotel
+358,Biltine,TD,85.35,14.5333,20.9167,clear sky,Hôtel Trois Étoiles de Biltine
+362,Eydhafushi,MV,81.77,5.1033,73.0708,scattered clouds,Soneva Fushi
+366,Sarkand,KZ,70.54,45.41,79.9186,overcast clouds,Гостиница Сарканд
+367,Jibuti,DJ,84.85,11.5,42.5,clear sky,Orchid Main Camp Goubet
+371,Chas,IN,86.04,23.6333,86.1667,clear sky,SPOT ON 39531 Hotel Vaibhav
+372,Abonnema,NG,74.89,4.7084,6.7931,overcast clouds,Corper's Lodge Obonoma
+375,Nizwa,OM,89.22,22.9333,57.5333,clear sky,Orient Apartments
+377,Baherden,TM,79.3,38.4362,57.4316,clear sky,
+382,Dingli,MT,71.82,35.8614,14.3822,few clouds,The Xara Palace Relais & Chateaux
+383,Iseyin,NG,73.17,7.9667,3.6,overcast clouds,Momak Hotels And Suites
+384,Gudari,IN,84.6,19.35,83.7833,scattered clouds,Hotel maa majhigouri
+387,Qandala,SO,85.57,11.472,49.8728,few clouds,
+391,Mogadishu,SO,84.07,2.0371,45.3438,broken clouds,Hotel Juba
+393,Ndele,CF,79.74,8.4109,20.6473,overcast clouds,
+396,Kapoeta,SS,86.27,4.7717,33.5903,overcast clouds,Eastgate Hotel
+400,Tukrah,LY,72.21,32.5341,20.5791,light rain,Lagrota restaurant
+401,Dangara,IN,87.73,29.6799,75.8931,clear sky,Mirchi Hotel & Restaurant Tohana
+411,Srivardhan,IN,86.4,18.0333,73.0167,broken clouds,Savli Resort/Hotel - Shrivardhan
+416,Benghazi,LY,73.96,32.1167,20.0667,light rain,Tibesti Hotel
+417,Rosetta,EG,74.97,31.4044,30.4164,few clouds,Green Valley
+420,Calabar,NG,74.48,4.9517,8.322,overcast clouds,NAKS Hotels (Formerly NAF Club)
+421,Sultanpur,IN,85.48,26.2667,82.0667,clear sky,OYO 49568 Vrindavan Guest House
+422,Rameswaram,IN,82.72,9.2833,79.3,overcast clouds,Daiwik Hotels Rameswaram
+424,Semnan,IR,80.44,35.5729,53.3971,clear sky,Semnan Tourist Hotel
+427,Parvatsar,IN,87.53,26.8833,74.7667,clear sky,Shree Hotel
+429,Ghatanji,IN,77.58,20.1333,78.3167,broken clouds,गजानन माहराज मदील घाटजी
+432,Yenagoa,NG,75.65,4.9247,6.2642,overcast clouds,Aridolf Resort Wellness and Spa
+437,Pandhurna,IN,81.03,21.6,78.5167,broken clouds,Hotel Aditya Residency
+438,Abha,SA,73.22,18.2164,42.5053,clear sky,Abha Hotel
+441,Anloga,GH,78.31,5.7947,0.8973,overcast clouds,Pin Drop Hotel
+442,Tabas,IR,84.42,33.5959,56.9244,clear sky,شرکت معماری مهراز شایگان آراد
+444,Kollo,NE,81.03,13.3043,2.339,broken clouds,
+446,Muscat,OM,89.62,23.6139,58.5922,clear sky,Mutrah Hotel
+448,Koson,UZ,82.72,39.0375,65.585,clear sky,Hakimov Alisherning uyi
+449,Zaltan,LY,73.18,32.947,11.8665,clear sky,Fars Alfelale
+450,Keti Bandar,PK,89.89,24.1447,67.4497,clear sky,Haji laloo memon house
+452,Moissala,TD,78.15,8.3404,17.7663,overcast clouds,
+457,Yola,NG,76.82,9.2,12.4833,few clouds,Muna Hotel
+460,Gurlan,UZ,73.31,41.8447,60.3919,few clouds,ÒJIQ OVUL
+461,Ellenabad,IN,89.44,29.45,74.65,clear sky,Lovelysweets
+465,Khulna,BD,89.33,22.8135,89.5672,scattered clouds,Hotel Jalico
+466,Beni Mazar,EG,77.65,28.4962,30.8029,clear sky,Link Co-Working space & Development center
+467,Gayeri,BF,77.23,12.6497,0.4931,broken clouds,
+471,Alexandria,EG,76.96,31.2156,29.9553,scattered clouds,Royal Crown Hotel
+482,Baghdad,IQ,87.71,33.3406,44.4009,clear sky,Baghdad Hotel
+484,Hurghada,EG,80.64,27.2574,33.8129,clear sky,Sea Star Beau Rivage Hotel
+490,Oytal,KZ,74.68,42.9057,73.2697,few clouds,Sanatorium Ak-Niet
+493,Toda Raisingh,IN,86.52,26.0252,75.4849,clear sky,Sohil king of 04
+494,Lenger,KZ,71.04,42.183,69.8839,broken clouds,Gostevoy Dom 1
+501,Surt,LY,76.32,31.2089,16.5887,clear sky,فندق المدينة
+503,Umm Lajj,SA,84.9,25.0213,37.2685,clear sky,Moon light Furnished Units
+504,Rafsanjan,IR,76.46,30.4067,55.9939,clear sky,Rafsanjan Tourism Hotel
+506,Turayf,SA,73.65,31.6725,38.6637,clear sky,Turaif
+508,Kalmunai,LK,85.17,7.4167,81.8167,overcast clouds,VS Villa
+510,Saryozek,KZ,72.46,44.3583,77.9753,overcast clouds,Gostinitsa
+512,Tahta,EG,77.13,26.7693,31.5021,clear sky,فندق الزيات
+513,Mardin,TR,70.86,37.3131,40.7436,broken clouds,Reyhani Kasri Hotel
+514,Meulaboh,ID,81.64,4.1363,96.1285,broken clouds,Kost Pria
+515,Kifri,IQ,88.97,34.6959,44.9661,clear sky,بيت نزهان الحديدي
+516,Ratnagiri,IN,84.94,16.9833,73.3,scattered clouds,Hotel Landmark
+518,Lagos,NG,79.12,6.5833,3.75,overcast clouds,
+520,Gaya,IN,87.71,24.7833,85.0,haze,Hotel Viraat Inn Gaya
+522,Veraval,IN,89.08,20.9,70.3667,few clouds,Lords Inn Somnath
+524,Aleppo,SY,73.22,36.25,37.5,overcast clouds,أمل دوريش
+526,Bosaso,SO,84.18,11.2842,49.1816,clear sky,Red Sea Hotel
+533,Amalner,IN,86.09,21.05,75.0667,broken clouds,MOHAMMADY HOUSE
+537,Kaka,TM,79.97,37.3482,59.6143,clear sky,
+540,Chabahar,IR,84.16,25.2919,60.643,clear sky,هتل گدروشیا
+541,Hashtrud,IR,70.48,37.4779,47.0508,overcast clouds,Mahan Hotel
+542,Muli,MV,79.75,2.9167,73.5667,scattered clouds,Medhufushi Island Resort
+543,Natitingou,BJ,73.13,10.3042,1.3796,broken clouds,Cotonou
+544,Dharan,NP,81.75,26.8125,87.2835,clear sky,Hotel Kanchanjunga
+547,Biu,NG,74.93,10.6129,12.1946,overcast clouds,Emir's Palace
+550,Fereydun Kenar,IR,79.02,36.6864,52.5225,clear sky,Khezer Shahr Tourist Hotel
+551,Ushtobe,KZ,76.57,45.2514,77.9838,broken clouds,"Gostinitsa ""Diyar"""
+552,Gemena,CD,73.69,3.25,19.7667,overcast clouds,Hôtel Goshen
+553,Mahibadhoo,MV,80.38,3.7833,72.9667,broken clouds,Omadhoo Inn
+556,Robat Karim,IR,80.46,35.4846,51.0829,few clouds,خانه معلم رباط کریم - مرکز رفاهی خجسته کیا
+559,Mubarakpur,IN,85.93,26.09,83.2922,clear sky,BABU FRY WALE
+560,Deogarh,IN,86.04,21.5333,84.7333,few clouds,Amit Henej House
+564,Luba,GQ,76.89,3.4568,8.5547,light rain,
+570,Bani Walid,LY,70.72,31.7566,13.9942,clear sky,مركزGLC للطلاء
+571,Ugoofaaru,MV,81.86,5.6667,73.0,overcast clouds,Ungoofaaru Inn
+572,Ler,SS,74.21,8.3018,30.1418,overcast clouds,Leer Humanitarian Hub
+576,Nakapiripirit,UG,77.23,1.9167,34.7833,overcast clouds,
+578,Hangu,CN,75.24,39.2489,117.7892,overcast clouds,Chongli Xuexiang Family Express Inn
+581,Kisangani,CD,78.62,0.5167,25.2,overcast clouds,Grand Ramela Hotel
+585,Pratapgarh,IN,83.23,24.0333,74.7833,clear sky,Ratna Hotel
+590,Port-Gentil,GA,76.96,-0.7193,8.7815,light rain,Fengshui Residence
+591,Bogande,BF,78.85,12.9714,-0.1436,overcast clouds,Auberge Wendkouni
+593,Bunia,CD,74.41,1.5667,30.25,light rain,Gold Star International Hotel
+594,Annau,TM,78.3,37.8876,58.516,clear sky,"Гостиница ""Уссат инженер"""
+604,Sidi Bin Nur,TN,71.51,35.5333,10.9167,clear sky,hani
+605,Kathmandu,NP,79.02,27.7167,85.3167,few clouds,Hotel Shanker Kathmandu
+608,Oum Hadjer,TD,87.28,13.2954,19.6966,clear sky,
+615,Akhmim,EG,75.4,26.5622,31.745,clear sky,برج الماسة السكني
+616,Kishtwar,IN,73.4,33.3167,75.7667,clear sky,Heritage Bagh by Himalayan Musk
+618,Rudbar,AF,85.86,30.15,62.6,clear sky,
+620,Ibra,OM,89.38,22.6906,58.5334,clear sky,مزرعة راحة النفوس المنزفة
+623,Jatara,IN,83.14,25.0167,79.05,clear sky,Sohil - Mark
+624,Sohag,EG,75.49,26.557,31.6948,clear sky,Civil Registry - Sohag 1
+628,Ilyich,KZ,80.22,40.8464,68.5067,clear sky,Aul Madeniyet
+632,Kumluca,TR,72.45,36.3703,30.2869,few clouds,Akkol Apart
+637,Pokhara,NP,77.65,28.2333,83.9833,few clouds,OYO 170 Hotel View Point
+638,Gao,ML,83.79,16.6362,1.637,clear sky,
+641,Mecca,SA,90.0,21.4267,39.8261,few clouds,"Makkah Clock Royal Tower, A Fairmont Hotel"
+643,Dahuk,IQ,80.33,36.8695,42.994,broken clouds,Parwar Hotel
+652,Tafresh,IR,72.07,34.692,50.013,clear sky,هتل یاس سفید
+654,Ouadda,CF,82.6,8.0777,22.4007,overcast clouds,
+656,Pushkar,IN,88.02,26.5,74.55,clear sky,Orchard - Tents and Tranquility
+666,Mumford,GH,78.15,5.2618,-0.759,overcast clouds,Peace Guest House
+669,Udhampur,IN,78.96,32.9333,75.1333,clear sky,Hotel Singh Axis
+670,Cove,BJ,76.15,7.221,2.3402,overcast clouds,TG Hôtel
+672,Bria,CF,81.23,6.5423,21.9863,overcast clouds,WFP Guesthouse
+675,Lodwar,KE,89.67,3.1191,35.5973,broken clouds,Solmar Gracious Hotel
+682,Kagoro,NG,73.85,9.6,8.3833,overcast clouds,Palm Garden Hotel
+688,Minna,NG,73.11,9.6139,6.5569,broken clouds,Royal Park hotel & suites
+697,Bara,NG,78.58,10.3744,10.7288,overcast clouds,
+699,Hargeysa,SO,80.13,9.56,44.065,clear sky,City Center Hotel
+701,Negombo,LK,80.65,7.2083,79.8358,light rain,Hotel Sunset Beach
+705,Berbera,SO,88.83,10.4396,45.0143,clear sky,IBCO REAL ESTATE PROPERTY
+706,Maridi,SS,77.5,4.9158,29.4742,light rain,
+707,Wajir,KE,82.36,1.7471,40.0573,broken clouds,Mahatallah Hotel
+708,Mizan Teferi,ET,76.39,6.9833,35.5833,light rain,Hotel Salayish - ሳላይሽ ሆቴል
+710,Businga,CD,81.32,3.3333,20.8833,light rain,
+715,Carnot,CF,75.45,4.9409,15.8665,overcast clouds,
+721,Yabassi,CM,78.91,4.457,9.9682,overcast clouds,MOTEL FOMI
+724,Shahrud,IR,76.23,36.4182,54.9763,clear sky,Royal Hotel
+726,Nola,IT,70.39,40.922,14.5329,clear sky,Palazzo Giordano Bruno
+732,Waw,SS,73.69,7.7029,27.9953,overcast clouds,Universal Gab Hotel
+735,Bam,IR,87.84,29.106,58.357,clear sky,Bam Tourist Hotel
+737,Sal,JO,71.55,32.5694,35.9119,scattered clouds,مضافة الجرادات سال
+742,Akdepe,TM,73.49,42.0551,59.3788,scattered clouds,
+743,Micomeseng,GQ,73.65,2.1462,10.6164,light rain,
+753,Balkanabat,TM,79.07,39.5108,54.3671,overcast clouds,Nebitchi Hotel
+755,Mehriz,IR,81.1,31.5917,54.4318,clear sky,Mehrgard dwelling/سرای مهرگرد
+766,Khandbari,NP,78.35,27.3747,87.2039,clear sky,Sainik Hotel And Lodge
+767,Edea,CM,80.1,3.8,10.1333,overcast clouds,Micotel Hotel
+769,Marsaxlokk,MT,74.08,35.8419,14.5431,few clouds,Water's Edge
+770,Ouargaye,BF,79.36,11.5033,0.0572,overcast clouds,Résidence le Cotonnier
+780,Basmat,IN,79.99,19.3167,77.1667,scattered clouds,Anwar Shaikh
+781,Save,BJ,76.46,8.0425,2.486,overcast clouds,Le Cercle du Rail
+782,Shahpura,IN,86.61,27.3833,75.9667,clear sky,Shahpura Haveli
+785,Ramachandrapuram,IN,86.41,16.85,82.0167,overcast clouds,RR Grand Lodge
+789,Mingaora,PK,79.61,34.7758,72.3625,clear sky,Burj Al Swat
+790,Narsimhapur,IN,81.39,22.95,79.2,clear sky,Hotel Pratap Palace
+792,Filingue,NE,85.21,14.3521,3.3168,scattered clouds,
+794,Tulsipur,NP,76.57,28.131,82.2973,broken clouds,Ekanta Hotel Pvt. Ltd
+796,Sirjan,IR,77.52,29.452,55.6814,clear sky,MAPNA Building
+797,Hadejia,NG,84.52,12.4498,10.0444,overcast clouds,Kasuwar Kuda Hadejia General Hospital Road
+798,Kalaleh,IR,80.2,37.3807,55.4916,clear sky,عطر و ادکلن پارسیس
+799,Mongo,TD,88.74,12.1844,18.693,scattered clouds,Résidences du Programme FIDA
+802,Ambam,CM,71.22,2.3833,11.2833,overcast clouds,Résidence St François
+804,Sompeta,IN,83.66,18.9333,84.6,scattered clouds,బెంకిలి భైరొడమ్మ క్రికెట్ గ్రౌండ్
+805,Puri,IN,88.32,19.8,85.85,few clouds,OYO 1577 Hotel Shree Hari Grand
+806,Sembe,CG,74.55,1.6481,14.5806,light rain,
+814,Neftcala,AZ,72.07,39.3742,49.2472,overcast clouds,Otel restoran
+818,Biloli,IN,80.11,18.7667,77.7333,broken clouds,Hotel Santosh
+819,Romitan,UZ,76.95,39.9343,64.3814,clear sky,Hotel Temur
+828,Kandi,BJ,78.24,11.1342,2.9386,overcast clouds,Hébergement de la Poste
+832,Hinganghat,IN,84.33,20.5667,78.8333,broken clouds,Zambre Villa
+834,Parasia,IN,77.83,22.2,78.7667,few clouds,Hotel Navrang
+837,Lugovoy,KZ,75.96,42.9472,72.7644,broken clouds,Ж.Д Вокзал Луговая
+839,Abomsa,ET,82.33,9.9833,39.9833,clear sky,
+845,Kaduqli,SD,84.6,11.0167,29.7167,overcast clouds,Nussyba
+846,Dourbali,TD,88.92,11.8091,15.8632,overcast clouds,
+847,Kant,IN,85.17,27.8,79.8,clear sky,Faheem Auto Service Centre
+849,Borujerd,IR,75.43,33.8973,48.7516,clear sky,Zagros International Hotel
+853,Sangin,AF,82.8,32.0728,64.8359,clear sky,
+855,Ibb,YE,72.39,13.9667,44.1833,clear sky,Hotel Amenities
+857,Chardara,KZ,76.01,41.2547,67.9692,few clouds,Жанаргул
+860,Seydi,TM,80.53,39.4816,62.9137,few clouds,Seydi oteli
+861,Mundi,IN,82.92,22.0667,76.5,scattered clouds,TIWARI NIWAS
+862,Gurmatkal,IN,77.14,16.8667,77.4,broken clouds,Patange Enterprises
+863,Ray,IN,79.57,23.6833,85.05,clear sky,Bablu Cake Corner
+867,Bousso,TD,81.25,10.4795,16.7117,overcast clouds,
+870,Telhara,IN,85.28,21.0269,76.8389,scattered clouds,Sarodes home
+874,Ardakan,IR,83.8,32.31,54.0175,clear sky,Ardakan Hotel
+875,Point Pedro,LK,83.53,9.8167,80.2333,overcast clouds,Gtr homes
+887,Rajshahi,BD,87.33,24.3667,88.6,clear sky,Anjum Hotel International
+891,Mora,CM,83.32,11.0461,14.1401,overcast clouds,Hotel Emergence
